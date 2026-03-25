@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-
+ 
 //Compilação Condicional
 #ifdef _OPENMP
   #include <omp.h>
